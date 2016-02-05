@@ -1,0 +1,27 @@
+{
+  "name" : "nemke/select2js-bundle",
+  "type" : "symfony-bundle",
+  "description" : "Select2 JS bundle for Symfony",
+  "keywords" : [
+    "select2",
+    "responsive",
+    "symfony"
+  ],
+  "homepage" : "https://select2.github.io/",
+  "license" : "MIT",
+  "authors" : [{
+    "name" : "Nemanja Andrejevic",
+    "email" : "andrejevicnemanja@gmail.com",
+    "homepage" : "https://www.nmdesign.rs/"
+  }
+  ],
+  "require" : {
+    "symfony/framework-bundle" : ">=2.1"
+  },
+  "autoload" : {
+    "psr-0" : {
+      "Nemke\\Select2JSBundle" : ""
+    }
+  },
+  "target-dir" : "Nemke/Select2JSBundle"
+}
