@@ -4,8 +4,6 @@
 	
 	use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-	use DataTablesBundle\DependencyInjection\DataTablesExtension;
-	
 	class Select2JSBundle extends Bundle
 	{
 	}
