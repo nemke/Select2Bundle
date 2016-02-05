@@ -1,6 +1,6 @@
 <?php
 
-	namespace Select2JSBundle;
+	namespace Nemke\Select2JSBundle;
 	
 	use Symfony\Component\HttpKernel\Bundle\Bundle;
 
